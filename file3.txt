@@ -1,1 +1,4 @@
 This is created inside remote repository
+
+
+I want to make this changes for github to understand pull command
