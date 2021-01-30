@@ -13,4 +13,6 @@ I added more changes in this file and I am
 following the steps again
 
 
-I want to check github desktop and ı added this informations
+I want to check Github desktop and ı added this informations
+
+I do not know the reason of red lines. 
